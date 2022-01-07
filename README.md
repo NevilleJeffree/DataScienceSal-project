@@ -52,8 +52,8 @@ I tried three different models:
 
 ## Model performance
 The Random Forest model far outperformed the other approaches on the test and validation sets. 
-*	**Random Forest** : MAE = 11.22
-*	**Linear Regression**: MAE = 18.86
+*	**Random Forest** : MAE = 11.08
+*	**Linear Regression**: MAE = 18.58
 *	**Ridge Regression**: MAE = 19.67
 
 ## Productionization 
